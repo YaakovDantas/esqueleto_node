@@ -1,0 +1,10 @@
+dist/
+node_modules/
+.env
+.env.prod
+.end.dev
+firebase.json
+.DS_Store
+.env.beta
+firebase.json
+
